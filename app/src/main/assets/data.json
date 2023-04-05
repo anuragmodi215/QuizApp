@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Delhi is Capital of India",
+    "answer": true
+  },
+  {
+    "question": "Tiger is national animal of India",
+    "answer": true
+  },
+  {
+    "question": "pegiopn is nation bird of India",
+    "answer": false
+  },
+  {
+    "question": "Chennai is the city the most no. of IT companies in India",
+    "answer": false
+  },
+  {
+    "question": "Banglore is the capital of Karnataka",
+    "answer": true
+  }
+]
